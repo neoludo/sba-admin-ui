@@ -1,4 +1,4 @@
-package com.lodh.arte.spring_boot_admin;
+package com.example.spring_boot_admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
